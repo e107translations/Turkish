@@ -10,7 +10,7 @@
 |			$Türkçe Çeviri: shadowtr (http://e107turkiye.com)
 +----------------------------------------------------------------------------+
 */
-define("PAGE_NAME", "İletişim");
+define("LANCONTACT_00", "Bize ulaşın");
 define("LANCONTACT_01", "İletişim Bilgileri");
 define("LANCONTACT_02", "İletişim Formu");
 define("LANCONTACT_03", "Adınız:");
@@ -26,7 +26,9 @@ define("LANCONTACT_12", "Mesajınız çok kısa...");
 define("LANCONTACT_13", "Lütfen, mesajınıza bir konu ekleyin.");
 define("LANCONTACT_14", "Mesaj gönderildi :");
 define("LANCONTACT_15", "Hatalı kod");
-define("LANCONTACT_16", "Kodu Girin");
+define("LANCONTACT_17", "Lütfen adınızı girin.");
+define("LANCONTACT_18", "Lütfen e-posta adresinizi girin.");
+define("LANCONTACT_19", "Lütfen konu için e-postanızı girin.");
+define("LANCONTACT_20", "Bizim için mesajınızı giriniz.");
 
-
-?>
+define("LANCONTACT_16", "Sen [kayıtlı olmalıdır] ve imzalı bileşenini bu formu kullanın.");

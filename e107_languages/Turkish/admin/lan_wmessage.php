@@ -12,15 +12,10 @@
 +----------------------------------------------------------------------------+
 */
 define("WMLAN_00", "Karşılama Mesajları");
-define("WMLAN_01", "Yeni Mesaj Oluştur");
-define("WMLAN_02", "Mesaj");
-define("WMLAN_03", "Görünürlük");
-define("WMLAN_04", "Mesaj Metni");
 define("WMLAN_05", "Ekle");
 define("WMLAN_06", "Seçiliyse, mesaj kutu içinde gösterilir");
 define("WMLAN_07", "kısakodunu {WMESSAGE} kullanmak için standart sistemin üstüne yaz:");
-define("WMLAN_09", "Henüz karışılama mesajı girilmemiş");
-define("WMLAN_10", "Mesaj Başlığı");
+define("WMLAN_11", "Carousel ile kapalı");
+define("WMLAN_12", "Karşılama mesajı yardım");
+define("WMLAN_13", "Bu sayfa o harekete geçirmek her zaman ön sayfa üst kısmında görüntülenecek bir ileti ayarlamanızı sağlar. Misafir, kayıtlı/logged-içinde kullanıcılar ve yöneticiler için farklı bir mesaj belirleyebilirsiniz.");
 
-
-?>

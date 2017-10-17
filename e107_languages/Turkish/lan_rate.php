@@ -18,4 +18,15 @@ define("RATELAN_4", "Oylanmadı");
 define("RATELAN_5", "Oyla");
 
 
-?>
+define("RATELAN_7", "Gibi");
+define("RATELAN_8", "Sevmemek");
+define("RATELAN_9", "Sen zaten oy");
+define("RATELAN_10", "Derecelendirme yok öğesi kimliği var");
+define("RATELAN_11", "Değerlendirmesi başarısız oldu");
+define("RATELAN_POOR", "Zavallı");
+define("RATELAN_FAIR", "Adil");
+define("RATELAN_GOOD", "İyi");
+define("RATELAN_VERYGOOD", "Çok iyi");
+define("RATELAN_EXCELLENT", "Mükemmel");
+define("RATELAN_6", "Bu oranı için giriş yapınız.");
+

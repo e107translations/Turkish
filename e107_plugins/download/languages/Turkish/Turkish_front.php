@@ -1,3 +1,45 @@
 <?php
 
-// define("EXAMPLE","Generated Empty Language File");
+// define("EXAMPLE","Generated Empty Language File");define("LAN_dl_1", "(Sınırlı)");
+define("LAN_dl_4", "Dosyaları mevcuttur:");
+define("LAN_dl_5", "Dosyaların toplam boyutu:");
+define("LAN_dl_6", "İndirilen dosyalar:");
+define("LAN_dl_8", "Al");
+define("LAN_dl_9", "Kategori listesine dön");
+define("LAN_dl_13", "Değil anma");
+define("LAN_dl_14", "Bu yükleme oranı");
+define("LAN_dl_16", "gelen download(s)");
+define("LAN_dl_29", "DL's");
+define("LAN_dl_30", "Yazar e-posta");
+define("LAN_dl_31", "Yazar Web sitesi");
+define("LAN_dl_36", "Yeni Yüklemeler");
+define("LAN_dl_40", "Ekran görüntüsü için tıklayınız");
+define("LAN_dl_43", "oy");
+define("LAN_dl_44", "oy");
+define("LAN_dl_45", "Rapor kırık download");
+define("LAN_dl_46", "indirmek için buraya tıklayın");
+define("LAN_dl_47", "Post bildirdi");
+define("LAN_dl_48", "İndirme yöneticisine rapor.<br>Teşekkür ederiz.");
+define("LAN_dl_49", "İndirmek için dönmek için buraya tıklayın");
+define("LAN_dl_50", "Rapor kırık download");
+define("LAN_dl_51", "Download raporlama:");
+define("LAN_dl_53", "Download görüntülemek için tıklatın");
+define("LAN_dl_54", "Eğer düşünüyorsanız bir yönetici bu dosyasi, farkında yapılır lütfen mesaj gerekli bırakın.");
+define("LAN_dl_55", "Bu formu iletişim admin başka bir sebeple için kullanmayın.");
+define("LAN_dl_57", "tarafından bildirilen");
+define("LAN_dl_58", "Rapor aşağıdaki karşıdan yükleme sitesinden kırık");
+define("LAN_dl_59", "Tarafından rapor:");
+define("LAN_dl_60", "Kırık download rapordan");
+define("LAN_dl_62", "Bu dosya yüklemesini engelledi; download kotanızı aştınız");
+define("LAN_dl_63", "Bu dosyayı indirmek için doğru izinleriniz yok.");
+define("LAN_dl_66", "Seçme download ayna");
+define("LAN_dl_67", "Mirror seçeneini seçin.");
+define("LAN_dl_68", "Ayna ana bilgisayar");
+define("LAN_dl_72", "İstekte bulunan dosya:");
+define("LAN_dl_73", "Downloads--dan bu ayna:");
+define("LAN_dl_74", "Toplam downloads--dan bu ayna:");
+define("LAN_dl_75", "resim yok");
+define("LAN_dl_77", "Kere indirildi");
+define("LAN_dl_78", "Bu karşıdan yükleme devre dışı veya piyasadan kalkıyor. Lütfen daha yeni bir sürümü için [indirme alan] iade edin.");
+
+define("LAN_dl_1", "(Sınırlı)");

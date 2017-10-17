@@ -19,4 +19,3 @@ define("LANMAILH_6", "E-posta sunucusu bulunamadı.");
 define("LANMAILH_7", " geçerli gözüküyor.");
 
 
-?>

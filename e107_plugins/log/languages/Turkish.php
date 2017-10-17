@@ -16,9 +16,7 @@
 |     $Author: e107coders $
 +----------------------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Statistics");
-
 define("ADSTAT_L1", "This plugin will log all visits to your site, and build detailed statistic screens based on the information gathered.");
 define("ADSTAT_L2", "The statistics logger has been successfully installed. To convert your existing stats to the new system, please <a href='".e_PLUGIN."log/update_routine.php'>click here to run update routine</a>.");
 define("ADSTAT_L3", "Statistic Logging");
@@ -59,16 +57,15 @@ define("ADSTAT_L37", "Visits by month");
 define("ADSTAT_L38", "Unique visits by month");
 define("ADSTAT_L39", "remove this entry");
 define("ADSTAT_L40", "days");
-define("ADSTAT_L41", "Error");
 define("ADSTAT_L42", "No monthly stats yet.");
-
 define("ADSTAT_L43", "Today's page errors");
 define("ADSTAT_L44", "All-time page errors");
-define("ADSTAT_L45", "Stats deleted for: ");
+define("ADSTAT_L45", "Stats deleted for:");
 define("ADSTAT_L46", "Note: any stats for today will not be deleted");
-define("ADSTAT_L47", "No stats found for: ");
-define("ADSTAT_L48", "");
-define("ADSTAT_L49", "");
-define("ADSTAT_L50", "");
-
-?>
+define("ADSTAT_L47", "No stats found for:");
+define("ADSTAT_L51", "Geçerli ayı istatistikleri");
+define("ADSTAT_L52", "Önceki ay istatistikleri");
+define("ADSTAT_L53", "Bilgi");
+define("ADSTAT_L48", "toplama göre sıralama");
+define("ADSTAT_L49", "alfabetik hale getirme");
+define("ADSTAT_L50", "Tüm zamanların en istatistikleri");

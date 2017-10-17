@@ -11,14 +11,10 @@
 |											shadowtr (http://e107turkiye.com)
 +----------------------------------------------------------------------------+
 */
-define("UGFLAN_1", "bakım ayarı güncellendi");
 define("UGFLAN_2", "Bakım bayrağını etkinleştir");
-define("UGFLAN_3", "Bakım ayarlarını güncelle");
 define("UGFLAN_4", "Bakım Ayarları");
 define("UGFLAN_5", "Site kapalı olduğunda gösterilecek metin");
 define("UGFLAN_6", "Varsayılan iletinin gösterilmesi için boş bırakın");
 define("UGFLAN_8", "Limit access to Admins only");
 define("UGFLAN_9", "Limit access to Main-Admins only");
 
-
-?>

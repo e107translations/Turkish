@@ -14,7 +14,6 @@ define("TOP_LAN_0", "En çok mesaj gönderen");
 define("TOP_LAN_1", "Kullanıcı adı");
 define("TOP_LAN_2", "Mesajları");
 define("TOP_LAN_3", "En çok yorum yapan");
-define("TOP_LAN_4", "Yorumları");
 define("TOP_LAN_5", "En çok sohbet eden");
 define("TOP_LAN_6", "Site Deðeri");
 define("LAN_1", "Konular");
@@ -26,5 +25,3 @@ define("LAN_6", "Konular");
 define("LAN_7", "En Aktif Konu");
 define("LAN_8", "En çok mesaj gönderen");
 
-
-?>

@@ -14,4 +14,3 @@ define("NWSF_FP_1", "Haber Kaynakları");
 define("NWSF_FP_2", "ana sayfa");
 
 
-?>

@@ -33,7 +33,7 @@ define("LAN_408", "Altı çizgili");
 define("LAN_409", "Dosyanın Adı");
 define("LAN_410", "Versiyon");
 define("LAN_411", "Dosya");
-define("LAN_412", "Ekran Görüntüsü");
+// define("LAN_412", "Ekran Görüntüsü");
 define("LAN_413", "Açıklama");
 define("LAN_414", "Çalışan demo");
 define("LAN_415", "demonun görüleceği sitenin adresini girin");
@@ -45,4 +45,11 @@ define("LAN_419", "İzin verilmeyen dosya tipi");
 define("LAN_420", "alanlar gereklidir");
 
 
-?>
+define("LAN_UL_023", "Türü");
+define("LAN_UL_024", "En büyük boyutu");
+define("LAN_UL_025", "İzin fotoğraf");
+define("LAN_UL_026", "");
+define("LAN_UL_027", "");
+
+
+define("LAN_UL_022", "Dosya türüne göre değişiklik gösterebilir");

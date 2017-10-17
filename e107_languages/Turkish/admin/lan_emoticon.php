@@ -12,35 +12,31 @@
 +----------------------------------------------------------------------------+
 */
 define("EMOLAN_1", "Yüzifadesi aktivasyon");
-define("EMOLAN_2", "Adı");
 define("EMOLAN_3", "Yüz ifadeleri");
 define("EMOLAN_4", "Yüzifadeleri aktif edilsin mi?");
 define("EMOLAN_5", "Resim");
 define("EMOLAN_6", "İfade Kodu");
 define("EMOLAN_7", "çoklu girdileri boşlukla ayırın");
-define("EMOLAN_8", "Durum");
-define("EMOLAN_9", "Seçenekler");
-define("EMOLAN_10", "Etkin");
 define("EMOLAN_11", "Paketi Etkinleştir'");
-define("EMOLAN_12", "Bu paketi düzenle/ayarla");
 define("EMOLAN_13", "Yüklenmiş Paketler");
-define("EMOLAN_14", "Ayarı kaydet");
-define("EMOLAN_15", "Yüzifadelerini Düzenle/Ayarla");
-define("EMOLAN_16", "Yüzifadesi ayarı kaydedildi");
 define("EMOLAN_17", "Yüz ifadesi paketiniz boşluklar içeriyor, kabul edilemez !");
 define("EMOLAN_18", "lütfen aşağıdaki listede belirtilenleri fazla boşluk kullanmadan yeniden adlandırın:");
-define("EMOLAN_19", "Ad");
 define("EMOLAN_20", "Konum");
 define("EMOLAN_21", "Hata");
 define("EMOLAN_22", "Yeni yüzifadesi paketi bulundu:");
 define("EMOLAN_23", "Yeni yüzifadesi xml paketi bulundu:");
 define("EMOLAN_24", "Yeni yüzifadesi php dosyası bulundu:");
-define("EMOLAN_25", "Yeni PHP yüz ifadeleri kuruluyor :");
 define("EMOLAN_26", "Paketi tekrar tara");
 define("EMOLAN_27", "Paket işletimi hatası :");
 define("EMOLAN_28", "XML Oluştur");
 define("EMOLAN_29", "XML dosyası oluşturuldu :");
 define("EMOLAN_30", "XML dosyası yazma hatası :");
+define("EMOLAN_PAGE_TITLE", "İfadeler");
+define("EMOLAN_31", "Toplam [x] dosya bulunamadı");
+define("EMOLAN_32", "Bilinmeyen paketi algılandı");
+define("EMOLAN_33", "Desteklenmeyen XML dosya biçimi");
+define("EMOLAN_34", "Paketi eksik dosyaları");
+define("EMOLAN_35", "-veritabanında silinmiş");
+define("EMOLAN_37", "Ayarlı emote");
+define("EMOLAN_38", "Boş değer emote");
 
-
-?>

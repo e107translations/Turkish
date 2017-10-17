@@ -31,4 +31,5 @@ define("LANDT_09s", "sn.");
 define("LANDT_AGO", "önce");
 
 
-?>
+define("LANDT_10", "Sadece şimdi");
+

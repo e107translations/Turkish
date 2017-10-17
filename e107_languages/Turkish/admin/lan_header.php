@@ -11,12 +11,10 @@
 |											shadowtr (http://e107turkiye.com)
 +----------------------------------------------------------------------------+
 */
-define("LAN_head_1", "Yönetici Dolaşımı");
-define("LAN_head_2", "Sunucunuz HTTP dosya yüklemelerine izin vermiyor dolayısıyla üyeleriniz avatar vb eyleri yükleyemeyebilir. Durumu düzeltmek için  php.ini dosyasındaki file_uploads bölümünü düzeltin ve sunucunuzu yeniden başlatın. php.ini dosyanıza ulaşamıyorsanız sunucu şirketinize danışın.");
-define("LAN_head_3", "Sunucunuz basedir sınırlaması ie çalışıyor. Bu ana dizininiz dışında başka dosya kullanmanızı engellemektedir ve bu nedenle dosya yöneticisinde sorunlar çıkarmaktadır.");
-define("LAN_head_4", "Yönetici Bölümü");
-define("LAN_head_5", "yönetici bölümünde gösterilecek dil: ");
-define("LAN_head_6", "Eklenti Bilgisi");
+define("LAN_HEADER_02", "Sunucunuz avatarlar/dosya vb yüklemek kullanıcılar için mümkün olmayacaktır böylece HTTP dosya yükler izin vermez. Bu set file_uploads üzerinde senin php.ini içinde düzeltmek ve sunucu yeniden başlatmak için. Eğer yoksa php.ini kişiye ev erişin.");
+define("LAN_HEADER_03", "Sunucu geçerli bir basedir kısıtlama ile çalışıyor. Bu giriş dizininizin dışında herhangi bir dosyanın kullanım izin vermez ve bu nedenle bazı komut dosyaları gibi dosya yöneticisi etkileyebilir.");
+define("LAN_HEADER_04", "Yönetici alanı");
+define("LAN_HEADER_05", "Yönetici bölgede görüntülenen dilde");
+define("LAN_HEADER_06", "Eklentileri bilgi");
+define("LAN_HEADER_01", "Admin gezinti");
 
-
-?>

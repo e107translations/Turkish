@@ -47,8 +47,16 @@ define("LAN_ERROR_34", "Bilinmeyen hata! Lütfen site yöneticisini bununla ilgi
 define("LAN_ERROR_35", "Hata 400 - Hatalı İstek");
 define("LAN_ERROR_36", "Erişmeye çalıştığınız web sayfasında biçimsel hata var.");
 define("LAN_ERROR_37", "Hata Simgesi");
-define("LAN_ERROR_38", "");
-define("LAN_ERROR_39", "");
 
 
-?>
+define("LAN_ERROR_40", "Sorun devam ederse, lütfen site yöneticisine başvurun");
+define("LAN_ERROR_41", "Bildirilen hatadır:");
+define("LAN_ERROR_42", "Ek hata bilgileri:");
+define("LAN_ERROR_43", "Sitesi geçici olarak kullanılamıyor");
+define("LAN_ERROR_44", "Site logosu");
+define("LAN_ERROR_45", "Şimdi ne yapabilirim?");
+define("LAN_ERROR_46", "Ayrıntılar için günlüğe bakın.");
+define("LAN_ERROR_TITLE", "Oops!");
+
+define("LAN_ERROR_38", "Üzgünüm, ama site geçici bir hata nedeniyle kullanılamıyor");
+define("LAN_ERROR_39", "Lütfen birkaç dakika sonra tekrar deneyin");

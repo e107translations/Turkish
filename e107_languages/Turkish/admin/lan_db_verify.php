@@ -11,27 +11,25 @@
 |											shadowtr (http://e107turkiye.com)
 +----------------------------------------------------------------------------+
 */
-define("DBLAN_1", "Sql veri dosyası okunamıyor<br /><br />Lütfen <b>core_sql.php</b> dosyasının exists <b>/admin/sql</b> dizininde olduğundan emin olun.");
-define("DBLAN_2", "Tümü Doğrulanıyor");
-define("DBLAN_4", "Tablo");
-define("DBLAN_5", "Alan");
-define("DBLAN_6", "Durum");
-define("DBLAN_7", "Notlar");
-define("DBLAN_8", "Uyumsuzluklar");
-define("DBLAN_9", "Şu an");
-define("DBLAN_10", "olmalı");
-define("DBLAN_11", "Alan Eksik");
-define("DBLAN_12", "Fazladan alan!");
-define("DBLAN_13", "Tablo eksik!");
-define("DBLAN_14", "Doğrulamak için tablo(ları) seç");
-define("DBLAN_15", "Doğrulamaya Başla");
-define("DBLAN_16", "SQL Doğrulama");
-define("DBLAN_17", "Geri");
-define("DBLAN_18", "tablolar");
-define("DBLAN_19", "Düzeltmeyi Dene");
-define("DBLAN_20", "Tabloları Düzeltmeyi dene");
-define("DBLAN_21", "Seçili Nesneleri Düzelt");
-define("DBLAN_22", "okunabilir değil");
+define("DBVLAN_4", "Tablo");
+define("DBVLAN_5", "Alan");
+define("DBVLAN_6", "Durumu");
+define("DBVLAN_7", "Notlar");
+define("DBVLAN_8", "Uyuşmazlığı");
+define("DBVLAN_9", "Şu anda");
+define("DBVLAN_10", "-meli var olmak");
+define("DBVLAN_11", "Alan eksik!");
+define("DBVLAN_12", "Fazladan alan!");
+define("DBVLAN_13", "Tablo eksik!");
+define("DBVLAN_14", "Doğrulamak için tabloları seçin");
+define("DBVLAN_15", "Başlangıç doğrulayın");
+define("DBVLAN_16", "SQL doğrulaması");
+define("DBVLAN_19", "Düzeltmek girişimi");
+define("DBVLAN_21", "Seçili öğeleri düzeltmek");
+define("DBVLAN_22", "[x] okunabilir değil");
+define("DBVLAN_23", "Veritabanı hizmet programları");
+define("DBVLAN_24", "Lütfen eylem seçin.");
+define("DBVLAN_25", "Dizin eksik!");
+define("DBVLAN_26", "[x] tablo (s) sorunları var.");
+define("DBVLAN_1", "Sql veri dosyası okunamıyor<br><br>Lütfen dosya <b>core_sql.php</b> <b>/e107_core/sql</b> Dizinin varolduğundan emin olun.");
 
-
-?>

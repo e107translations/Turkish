@@ -11,20 +11,15 @@
 |        $Türkçe Çeviri: shadowtr (http://e107turkiye.com)$ 
 +---------------------------------------------------------------+
 */
-
 define("CM_L1", "Henüz Yorum Yok");
-define("CM_L2", "");
 define("CM_L3", "Başlık");
 define("CM_L4", "Gösterilecek yorum sayısı");
 define("CM_L5", "Gösterilecek karakter sayısı");
 define("CM_L6", "Uzun yorumlar için mesaj eki ?");
 define("CM_L7", "Menüde haberin başlığını göster");
 define("CM_L8", "Yeni Yorumlar Menüsü Ayarları");
-define("CM_L9", "Ayarları Güncelle");
-define("CM_L10", "Yorumlar menüsü ayarları kaydedildi");
-define("CM_L11", " : ");
+define("CM_L11", " :");
 define("CM_L12", "Cevap:");
 define("CM_L13", "Gönderen");
+define("CM_L2", "");
 
-
-?>

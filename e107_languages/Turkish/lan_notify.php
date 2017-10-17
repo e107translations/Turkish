@@ -26,4 +26,5 @@ define("NT_LAN_ND_1", "Haber öğesi silindi");
 define("NT_LAN_ND_2", "Silinen haber öğesi id");
 
 
-?>
+define("NT_LAN_ML_1", "Toplu e-posta göndermek tam");
+

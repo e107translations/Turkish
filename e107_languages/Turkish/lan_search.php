@@ -12,7 +12,6 @@
 */
 define("PAGE_NAME", "Ara");
 define("LAN_140", "Üyeler");
-define("LAN_180", "Ara");
 define("LAN_192", "Bütün kategoriler");
 define("LAN_193", "Etkinlik Takvimi");
 define("LAN_194", "Bütün kategoriler");
@@ -30,16 +29,15 @@ define("LAN_SEARCH_3", "Gönderilme :");
 define("LAN_SEARCH_4", "Eşleşen haber başlığı bulundu");
 define("LAN_SEARCH_5", "Eşleşen haber yazısı bulnudu");
 define("LAN_SEARCH_6", "Eşleşen ek haber yazısı bulundu");
-define("LAN_SEARCH_7", "Gönderen ");
-define("LAN_SEARCH_8", " tarih ");
+define("LAN_SEARCH_7", "Gönderen");
+define("LAN_SEARCH_8", " tarih");
 define("LAN_SEARCH_9", "Başlıksız");
-define("LAN_SEARCH_10", "Sayfaya git:");
 define("LAN_SEARCH_11", "Sonuçlar");
-define("LAN_SEARCH_12", " of ");
-define("LAN_SEARCH_13", " in ");
+define("LAN_SEARCH_12", " of");
+define("LAN_SEARCH_13", " in");
 define("LAN_SEARCH_14", "Kategori:");
 define("LAN_SEARCH_15", "Yazar:");
-define("LAN_SEARCH_17", "Üzgünüm, kriterleri değiştirerek yeniden arayın ");
+define("LAN_SEARCH_17", "Üzgünüm, kriterleri değiştirerek yeniden arayın");
 define("LAN_SEARCH_18", " saniye.");
 define("LAN_SEARCH_19", "Burada Ara:");
 define("LAN_SEARCH_20", "İzin Gerekli");
@@ -90,7 +88,6 @@ define("LAN_SEARCH_64", "Bütün Dosya Kategorileri");
 define("LAN_SEARCH_65", "Dosyalar");
 define("LAN_SEARCH_66", "Eklenme tarihi");
 define("LAN_SEARCH_67", "Bütün dosya detayları");
-define("LAN_SEARCH_68", "Tarih");
 define("LAN_SEARCH_69", "İlgi");
 define("LAN_SEARCH_70", "Dosyalarda ki ögeler");
 define("LAN_SEARCH_71", "Haberlerde ki ögeler");
@@ -101,8 +98,6 @@ define("LAN_SEARCH_75", "Arama tipi");
 define("LAN_SEARCH_76", "Gönderilen sayfa");
 define("LAN_SEARCH_77", "Gönderenin profili :");
 define("LAN_SEARCH_98", "Haberler");
-define("LAN_SEARCH_99", "Yorumlar");
 define("LAN_SEARCH_201", "Lütfen arama sorgunuzu gözden geçirin");
+define("LAN_SEARCH_202", "Gelişmiş moduna geçiş yap");
 
-
-?>

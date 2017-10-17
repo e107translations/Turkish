@@ -61,4 +61,9 @@ define("LANHELP_48", "YouTube video: [youtube=tiny|small|medium|big|huge|width,h
 define("LANHELP_49", "Justify align: [justify]This text will be justified[/justify]");
 
 
-?>
+define("LANHELP_51", "HTML yeni hatları kapalı metin için devre dışı bırakın: [nobr] metin [/nobr]");
+define("LANHELP_52", "Yeni satır (HTML): [br]");
+define("LANHELP_53", "Haklı Hizala: \n [haklı] Bu metin [/ haklı olacak haklı]");
+define("LANHELP_54", "HTML bloğunu (DIV etiket): [blok] içerik [/block]");
+define("LANHELP_50", "Başlık: H2 [s] metin [/h] başlık için veya [h = 2] metin [/h] başlığı");
+

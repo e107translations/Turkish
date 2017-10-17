@@ -19,4 +19,10 @@ define("UC_LAN_5", "Yönetici");
 define("UC_LAN_6", "Ana Yönetici");
 
 
-?>
+define("UC_LAN_8", "Yöneticiler ve Mods");
+define("UC_LAN_9", "Yeni kullanıcılar");
+define("UC_LAN_10", "Arama botlarının");
+define("UC_LAN_INVERT", "-SINIF...");
+define("UC_LAN_INVERTLABEL", "Herkes ama...");
+define("UC_LAN_7", "Forum Moderatörleri");
+

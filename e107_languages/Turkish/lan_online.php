@@ -10,14 +10,14 @@
 |			$Türkçe Çeviri: shadowtr (http://e107turkiye.com)
 +----------------------------------------------------------------------------+
 */
-define("ONLINE_EL1", "Misafir: ");
-define("ONLINE_EL2", "Üyeler: ");
-define("ONLINE_EL3", "Bu sayfada: ");
+define("ONLINE_EL1", "Misafir:");
+define("ONLINE_EL2", "Üyeler:");
+define("ONLINE_EL3", "Bu sayfada:");
 define("ONLINE_EL4", "Çevrimiçi");
 define("ONLINE_EL5", "Üyeler");
 define("ONLINE_EL6", "En yeni üye");
 define("ONLINE_EL7", "bakıyor");
-define("ONLINE_EL8", "En çok Bağlanan: ");
+define("ONLINE_EL8", "En çok Bağlanan:");
 define("ONLINE_EL9", "şu gün:");
 define("ONLINE_EL10", "Kullanıcı Adı");
 define("ONLINE_EL11", "Görüntülenen Sayfa");
@@ -26,9 +26,7 @@ define("ONLINE_EL13", "Forum");
 define("ONLINE_EL14", "Konu");
 define("ONLINE_EL15", "Sayfa");
 define("CLASSRESTRICTED", "Sınırlı Sayfa");
-define("ARTICLEPAGE", "Makale/Araştırma");
 define("CHAT", "Chat");
-define("COMMENT", "Yorumlar");
 define("DOWNLOAD", "Dosyalar");
 define("EMAIL", "email.php");
 define("FORUM", "Forum Anasayfa");
@@ -59,6 +57,6 @@ define("SURVEY", "Anket");
 define("ARTICLE", "Makale");
 define("CONTENT", "İçerik Sayfası");
 define("REVIEW", "Gözden Geçir");
+define("OTHER", "Diğer sayfa:");
+define("ONLINE_EL16", "Bilgileri kullanılabilir değil");
 
-
-?>

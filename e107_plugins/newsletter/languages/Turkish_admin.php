@@ -1,3 +1,40 @@
 <?php
 
-// define("EXAMPLE","Generated Empty Language File");
+// define("EXAMPLE","Generated Empty Language File");define("NLLAN_04", "Bülten eklenti başarıyla yüklendi. Yapılandırmak, ana yönetici sayfasına geri dönün ve \'Newsletter\ üzerinde tıklatın' eklenti bölümünde.");
+define("NLLAN_05", "Henüz tanımlanmış hiçbir haber bültenleri");
+define("NLLAN_07", "Aboneleri");
+define("NLLAN_10", "Varolan haber bültenleri");
+define("NLLAN_11", "Bülten sorunları yok henüz.");
+define("NLLAN_12", "Sorunu");
+define("NLLAN_13", "[Üst kimliği] Konu/başlık");
+define("NLLAN_14", "Gönderilecek?");
+define("NLLAN_17", "-Gönderdi değil göndermek için tıklatın");
+define("NLLAN_18", "Abonelerine bu sorun postalamak istediğinizden emin misiniz?");
+define("NLLAN_19", "Bu haber bülteni-sayı silmek istediğinizden emin misiniz?");
+define("NLLAN_20", "Varolan sorunları");
+define("NLLAN_23", "Üstbilgi");
+define("NLLAN_24", "Altbilgi");
+define("NLLAN_30", "Haber bülteni");
+define("NLLAN_31", "Konu / başlık");
+define("NLLAN_32", "Konu numarasını");
+define("NLLAN_33", "Metin");
+define("NLLAN_36", "Haber bülteni-sayı güncelleştirmek");
+define("NLLAN_37", "Haber bülteni-sayı oluşturmak");
+define("NLLAN_39", "Haber bülteni-sayı, göndermek için veri tabanı - kaydedilmiş tıklatın \'Release Issue\' düğme seçenekler menüsü.");
+define("NLLAN_40", "Mailout mailout kuyruğuna - sorun sayısı--subscriber(s)--gönderdi ekledi.");
+define("NLLAN_41", "Bulundu - hiçbir aboneler e-posta iptal");
+define("NLLAN_44", "Bülten ön sayfa");
+define("NLLAN_45", "Bülten oluşturma");
+define("NLLAN_46", "E-posta oluştur");
+define("NLLAN_47", "Bülten seçenekleri");
+define("NLLAN_48", "Bülten abonesi");
+define("NLLAN_49", "Haber bülteni:");
+define("NLLAN_54", "Gönderme");
+define("NLLAN_56", "Bülten kimliği mevcut değil");
+define("NLLAN_62", "Kullanıcı yasak! (veya tam olarak yukarı imzalanmış)");
+define("NLLAN_63", "Toplam aboneleri");
+define("NLLAN_64", "Bülten FrontPage'e dönün");
+define("NLLAN_65", "Abonelerin genel bakış bülten kimliği");
+define("NLLAN_66", "Haber mektubu abone listenizi dezenfekte.");
+
+define("NLLAN_04", "Bülten eklenti başarıyla yüklendi. Yapılandırmak, ana yönetici sayfasına geri dönün ve \'Newsletter\ üzerinde tıklatın' eklenti bölümünde.");

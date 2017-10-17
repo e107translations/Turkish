@@ -10,11 +10,6 @@
 |			$Türkçe Çeviri: shadowtr (http://e107turkiye.com)
 +----------------------------------------------------------------------------+
 */
-define("LAN_27", "Kullanıcı adı ve parola alanlarını boş bırakmayın");
-define("LAN_300", "Başarısız giriş. Böyle bir kullanıcı yok. CAPS-LOCK tuşunun açık olup olmadığını kontrol edin. Bu site küçük/büyük harfe duyarlıdır");
-define("LAN_302", "Hesabınız aktif edilmemiş. E-mail adresinize gelen maildeki linki kullanarak e-mail adresinizi doğrulamalısınız. Eğer yapamadıysanız, lütfen buraya <a href='".e_BASE."signup.php?resend'>tıklayınız</a>.");
-define("LAN_303", "Girilen kod hatalı.");
-define("LAN_304", "Bu kullanıcı adı/parola kombinasyonu kullanılıyor.");
 define("LAN_LOGIN_1", "Kullanıcı adı");
 define("LAN_LOGIN_2", "kullanıcı parolası");
 define("LAN_LOGIN_3", "Korumalı server");
@@ -32,8 +27,21 @@ define("LAN_LOGIN_14", "Bu kullancı adıyla giriş yapılamadı");
 define("LAN_LOGIN_15", "Hatalı parola, giriş yapılamadı");
 define("LAN_LOGIN_16", "Giriş başarısız kullanıcı adı/parola kombinasyonu kullanılıyor");
 define("LAN_LOGIN_17", "Kullancı parolası (bozuldu)");
-define("LAN_LOGIN_18", "Otomatik-Yasak: 10'dan fazla hatalı giriş");
+define("LAN_LOGIN_18", "Otomatik-Yasak: [x] dan fazla hatalı giriş");
 define("LAN_LOGIN_19", "> 10 hatalı giriş");
-
-
-?>
+define("LAN_LOGIN_20", "Gerekli alanlar boş bıraktınız");
+define("LAN_LOGIN_21", "Yanlış mantık. Girilen veriler için kayıtlı bir kullanıcı eşleşmiyor. CAPS LOCK tuşunun oturumları bu sitede büyük küçük harf duyarlı olduğu gibi aktif olup olmadığını kontrol");
+define("LAN_LOGIN_22", "Hesabınızı etkinleştirmediniz. Hesabınızı onaylamak yönergeler içeren bir e-posta almış olmanız gerekir. Eğer değilse, lütfen [] tıklayınız.");
+define("LAN_LOGIN_23", "Yanlış kodu girildi.");
+define("LAN_LOGIN_24", "Bu kullanıcı adı/parola birleşimi zaten kullanılıyor.");
+define("LAN_LOGIN_25", "Kullanıcı oturum açmanız için çalıştı yasaklandı");
+define("LAN_LOGIN_26", "Oturum açma başarısız - nedeni bilinmeyen");
+define("LAN_LOGIN_27", "Kullanıcı onay e-postası için yanıt vermeden önce oturum açmak çalıştı");
+define("LAN_LOGIN_28", "E-posta");
+define("LAN_LOGIN_29", "Kullanıcı adı veya e-posta");
+define("LAN_LOGIN_30", "DB için yeni alt_auth kullanıcı ekleme hatası");
+define("LAN_LOGIN_31", "Kimlik bilgilerinizi sisteme eklenemedi");
+define("LAN_LOGIN_32", "Şu anda ana yönetici olarak oturum çünkü bu iletiyi görüyorsanız");
+define("LAN_LOGIN_33", "[Ana sayfasına dön]");
+define("LAN_LOGIN_34", "Kullanıcı kaydı ve/veya oturum açma şu anda devre dışı.");
+define("LAN_LOGIN_35", "[Etkinleştir]");

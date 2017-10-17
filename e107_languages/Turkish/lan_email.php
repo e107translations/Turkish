@@ -22,7 +22,7 @@ define("LAN_EMAIL_8", "Yorum");
 define("LAN_EMAIL_9", "Üzgünüm - eposta gönderilemedi");
 define("LAN_EMAIL_10", "Gönderen");
 define("LAN_EMAIL_11", "Eposta gönderildi");
-define("LAN_EMAIL_12", "Hata");
+// define("LAN_EMAIL_12", "Hata");
 define("LAN_EMAIL_13", "Makaleyi arkadaşına gönder");
 define("LAN_EMAIL_14", "Haber öğesini arkadaşına gönder");
 define("LAN_EMAIL_15", "Kullanıcı Adı:");
@@ -35,4 +35,6 @@ define("LAN_EMAIL_189", "Bu makalenin ilgini çekebileceğini düşündüm");
 define("LAN_EMAIL_190", "Kodu girin");
 
 
-?>
+
+
+define("LAN_SOCIAL_LINK_CHK", "Bu bağlantıyı kontrol edin:");

@@ -26,4 +26,3 @@ define("MESSLAN_12", "Mesaj");
 define("MESSLAN_13", "Bağlantı");
 
 
-?>

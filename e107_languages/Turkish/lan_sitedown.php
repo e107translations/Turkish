@@ -15,4 +15,3 @@ define("LAN_SITEDOWN_00", "geçici olarak kapalıdır");
 define("LAN_SITEDOWN_01", "Bakım nedeniyle geçici olarak kapalıyız. Uzun sürmeyecek - lütfen en kısa zamanda tekrar deneyiniz.");
 
 
-?>

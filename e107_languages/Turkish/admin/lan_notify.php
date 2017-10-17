@@ -13,10 +13,10 @@
 */
 define("NT_LAN_1", "Hatırlatma");
 define("NT_LAN_2", "Eposta uyarısı alma açık");
-define("NT_LAN_3", "Kapalı");
-define("NT_LAN_4", "Genel Yönetici");
-define("NT_LAN_5", "Sınıf");
-define("NT_LAN_6", "Email");
+// define("NT_LAN_3", "Kapalı");
+// define("NT_LAN_4", "Genel Yönetici");
+// define("NT_LAN_5", "Sınıf");
+// define("NT_LAN_6", "Email");
 define("NU_LAN_1", "Kullanıcı Etkinlikleri");
 define("NU_LAN_2", "Kullanıcı Girişi");
 define("NU_LAN_3", "Kullanıcı Hesap Doğrulama");
@@ -33,4 +33,18 @@ define("NF_LAN_1", "Dosya Olayları");
 define("NF_LAN_2", "Dosyayı yükleyen kullanıcı");
 
 
-?>
+define("NA_LAN_2", "Yönetici yeni bir kullanıcı oluşturur");
+define("NA_LAN_3", "Yeni bir kullanıcı yönetici etkinleştirir");
+define("NU_LAN_6", "Kullanıcı sosyal oturum açma");
+define("NU_LAN_7", "Kullanıcı sosyal kayıt");
+define("NU_LAN_8", "Kullanıcı sayısı profili");
+define("NU_LAN_9", "Kullanıcı düzenleme profili");
+define("NS_LAN_3", "Birden çok başarısız oturum açma girişimleri için yasaklı IP");
+define("NN_LAN_6", "Tetiklenen haber bildirim");
+define("NM_LAN_1", "Posta olaylar");
+define("NM_LAN_2", "Tam çalıştırmak toplu e-posta");
+define("NM_LAN_3", "E-posta adresi =>");
+define("LAN_NOTIFY_01", "Olaylar");
+
+
+define("NA_LAN_1", "Yönetici parolasını güncelleştirir");

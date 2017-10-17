@@ -18,7 +18,7 @@ define("NFPM_LAN_3", "Görüntülemeler");
 define("NFPM_LAN_4", "Cevaplar");
 define("NFPM_LAN_5", "Son Mesaj");
 define("NFPM_LAN_6", "Konular");
-define("NFPM_LAN_7", " : ");
+define("NFPM_LAN_7", " :");
 define("NFPM_L1", "Bu eklenti yeni forum mesajlarını giriş sayfanızda gösterir.");
 define("NFPM_L2", "Son Forum Mesajları");
 define("NFPM_L3", "Ayarlamak için yönetici panelindeki eklenti bölümünü kullanın");
@@ -35,14 +35,11 @@ define("NFPM_L13", "Yeni Forum Mesajları Ayarlarını Güncelle");
 define("NFPM_L14", "Yeni Forum Mesajları ayarları güncellendi");
 define("NFPM_L15", "Son forum mesajlarını göster.<br />Varsayılan olarak son konular.");
 define("NFPM_L16", "[kullanıcı silindi]");
-define("NFPM_L17", "New Posts on Popular Thread");
-define("NFPM_L18", "New Posts");
-define("NFPM_L19", "No New Posts on Popular Thread");
-define("NFPM_L20", "No New Posts");
-define("NFPM_L21", "Sticky Thread");
-define("NFPM_L22", "Closed Sticky Thread");
-define("NFPM_L23", "Announcement");
-define("NFPM_L24", "Closed Thread");
-
-
-?>
+define("NFPM_L17", "Popüler konu yeni mesaj");
+define("NFPM_L18", "Yeni mesaj");
+define("NFPM_L19", "Popüler iş parçacığı üzerinde yeni mesaj yok");
+define("NFPM_L20", "Yeni mesaj yok");
+define("NFPM_L21", "Yapışkan dizi");
+define("NFPM_L22", "Yapışkan dizi kapalı");
+define("NFPM_L23", "Duyuru");
+define("NFPM_L24", "Kapalı Konu");

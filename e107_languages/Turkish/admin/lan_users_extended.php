@@ -69,7 +69,7 @@ define("EXTLAN_57", "Etkinleştirildi");
 define("EXTLAN_58", "Etkinleştirilmedi");
 define("EXTLAN_59", "Etkinleştir");
 define("EXTLAN_60", "Etkinleştirme");
-define("EXTLAN_61", "Hiçbiri");
+// define("EXTLAN_61", "Hiçbiri");
 define("EXTLAN_62", "Tablo");
 define("EXTLAN_63", "Alan Id");
 define("EXTLAN_64", "Gösterim Değeri");
@@ -98,4 +98,15 @@ define("EXTLAN_HELP_7", "Tarhi yardım metni");
 define("EXTLAN_HELP_8", "Kullanıcıların kurulu dilleri seçebilmelerine izin ver");
 
 
-?>
+define("EXTLAN_32", "Kullanıcı ayarları sayfasında gösterildiği gibi alanın etiketini bu. Dil sabitler izin verilir.");
+define("EXTLAN_80", "Doğrulama hatası - iptal edildi.");
+define("EXTLAN_81", "Özel Alan Ekle");
+define("EXTLAN_82", "Değerleri");
+define("EXTLAN_83", "Yer tutucu");
+define("EXTLAN_84", "Yardım ipucu");
+define("EXTLAN_86", "Kullanıcı genişletilmiş tablosundan silinmiş sütun");
+define("EXTLAN_87", "Sıralama değerleri");
+define("EXTLAN_HELP_9", "Önceden tanımlanmış bir liste belirtin. 'Saat dilimleri' geçerli bir giriştir sadece değer alanı liste - türü şu anda seçer.");
+
+
+define("EXTLAN_31", "Kategori etiketi");

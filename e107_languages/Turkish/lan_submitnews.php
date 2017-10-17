@@ -11,14 +11,9 @@
 +----------------------------------------------------------------------------+
 */
 define("PAGE_NAME", "Haber Gönder");
-define("LAN_7", "Kullanıcı Adı: ");
-define("LAN_62", "Konu: ");
-define("LAN_112", "Eposta: ");
-define("LAN_133", "Teşekkürler");
 define("LAN_134", "Öğe site yöneticileri tarafından incelenmek üzere gönderildi.");
-define("LAN_135", "Haber Öğesi: ");
+define("LAN_135", "Haber Öğesi:");
 define("LAN_136", "Haber Öğesi Yolla");
-define("NWSLAN_6", "Kategori");
 define("NWSLAN_10", "Haber kategorisi yok");
 define("NWSLAN_11", "Bu alana erişemezsiniz.");
 define("NWSLAN_12", "Erişim Engellendi.");
@@ -30,6 +25,8 @@ define("SUBNEWSLAN_5", "Resim Dosyası");
 define("SUBNEWSLAN_6", "(jpg, gif veya png)");
 define("SUBNEWSLAN_7", "You must give your name and email address");
 define("SUBNEWSLAN_8", "Error uploading image");
+define("SUBNEWSLAN_9", "Anahtar kelimeler");
+define("SUBNEWSLAN_11", "Meta açıklaması");
+define("SUBNEWSLAN_12", "Facebook vb tarafından kullanılan.");
+define("SUBNEWSLAN_13", "Medya URL'leri");
 
-
-?>

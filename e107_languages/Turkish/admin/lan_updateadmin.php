@@ -15,10 +15,7 @@ define("UDALAN_1", "Hata - lütfen yeniden gönderin");
 define("UDALAN_2", "Ayarlar Güncellendi");
 define("UDALAN_3", "Ayarlar şunun için güncellendi:");
 define("UDALAN_4", "Ad");
-define("UDALAN_5", "Parola");
 define("UDALAN_6", "Tekrar Parola");
 define("UDALAN_7", "Parolayı Değiştir");
 define("UDALAN_8", "Parola bu kullanıcı için güncellendi");
 
-
-?>

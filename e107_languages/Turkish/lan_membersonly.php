@@ -13,9 +13,6 @@
 define("PAGE_NAME", "Sadece Üyeler");
 define("LAN_MEMBERS_0", "kısıtlı alan");
 define("LAN_MEMBERS_1", "Bu, sınırlı bir alandır.");
-define("LAN_MEMBERS_2", "Giriş için <a href='".e_LOGIN."'>buraya</a> tıklayın ");
-define("LAN_MEMBERS_3", "veya üye olmak için <a href='".e_SIGNUP."'>buraya</a> tıklayın.");
+define("LAN_MEMBERS_2", "Giriş için [buraya] tıklayın");
+define("LAN_MEMBERS_3", "veya üye olmak için [buraya] tıklayın.");
 define("LAN_MEMBERS_4", "Ön sayfaya dönmek için buraya tıklayın");
-
-
-?>

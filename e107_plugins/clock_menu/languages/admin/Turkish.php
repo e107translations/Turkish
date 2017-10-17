@@ -17,9 +17,7 @@
 |			$Türkçe Çeviri : shadowtr (http://e107turkiye.com)
 +----------------------------------------------------------------------------+
 */
-define("CLOCK_AD_L1", "Saat menüsü ayarları kaydedildi");
 define("CLOCK_AD_L2", "Başlık");
-define("CLOCK_AD_L3", "Menü Ayarlarını Güncelle");
 define("CLOCK_AD_L4", "Saat Menüsü Ayarı");
 define("CLOCK_AD_L5", "ÖÖ/ÖS");
 define("CLOCK_AD_L6", "Seçiliyse, saat amerikan biçiminde görüntülenir (0-12 ÖÖ/ÖS biçimi). Seçilmezse 'askeri' biçim olan 0-24 biçiminde gösterilir");
@@ -30,17 +28,4 @@ define("CLOCK_AD_L10", "Sonek 2");
 define("CLOCK_AD_L11", "Sonek 3");
 define("CLOCK_AD_L12", "Sonek 4 ve devamı");
 define("CLOCK_AD_L13", "Eğer dilinizde tarihler için numaralardan sonra bir ek geliyorsa, bu alanı kullanabilirsiniz (Örneğin:Ýngilizler 1 den sonra 'st', 2 den sonra 'nd' , 3 ten sonra 'rd', 4 ve devamı içnise 'th' kullanırlar). Gerekmiyorsa boş bırakın.");
-define("CLOCK_AD_L14", "");
-define("CLOCK_AD_L15", "");
-define("CLOCK_AD_L16", "");
-define("CLOCK_AD_L17", "");
-define("CLOCK_AD_L18", "");
-define("CLOCK_AD_L19", "");
-define("CLOCK_AD_L20", "");
-define("CLOCK_AD_L21", "");
-define("CLOCK_AD_L22", "");
-define("CLOCK_AD_L23", "");
-define("CLOCK_AD_L24", "");
 
-
-?>

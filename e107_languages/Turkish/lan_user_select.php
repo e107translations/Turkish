@@ -18,4 +18,3 @@ define("US_LAN_5", "Kullanıcı(lar) bulundu");
 define("US_LAN_6", "Ara");
 
 
-?>
